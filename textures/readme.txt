@@ -1,0 +1,1 @@
+These are GIMP images which are exported to .raw via the plugin RAWTEX 1.06 (downloaded separately), which exports in 5551 format (5 bits per colour, 1 bit alpha).
